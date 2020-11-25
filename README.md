@@ -5,4 +5,6 @@
 </p>
                                                                                                                
                                                                                                                 
-Simple Linear regression example in js using p5.js, "Code train" 
+Simple Linear regression example in js using p5.js, "Code train".
+
+https://filipeborges1993.github.io/linearRegression/
